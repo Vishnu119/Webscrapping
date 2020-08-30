@@ -1,0 +1,7 @@
+img ----> a-dynamic-image a-stretch-horizontal    id ----> landingImage    (image url and image title)
+
+span ----> a-icon-alt    (starts)
+
+a ----> a-size-base    id ----> acrCustomerReviewText   (reviews)
+
+span ----> a-size-medium a-color-price priceBlockBuyingPriceString    id ----> priceblock_ourprice   (price)
